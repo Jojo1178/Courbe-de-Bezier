@@ -1,8 +1,17 @@
+Courbe-de-Bezier
+
+# Editor swap files
+*.swp
+
+# Test executables
+test/test
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+obj
 
 # Precompiled Headers
 *.gch
@@ -26,3 +35,6 @@
 *.exe
 *.out
 *.app
+
+#Tmp Files
+*.*~
